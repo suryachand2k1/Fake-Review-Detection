@@ -1,6 +1,4 @@
-Certainly! To create a more informative and detailed `README.md` based on the files you've uploaded, I'll incorporate specifics about the dataset structure, detailed functionalities of each Python script, and more nuanced installation and usage instructions. Here's the enhanced Markdown content:
 
-```markdown
 # Fake Review Detection Project
 
 ## Overview
