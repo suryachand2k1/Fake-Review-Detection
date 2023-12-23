@@ -19,7 +19,6 @@
 
 Given this additional information, the `README.md` can be updated to reflect these details, especially the Flask web application aspect and the OOP-based structure of the project. Here's the revised Markdown content:
 
-```markdown
 # Fake Review Detection Project
 
 ## Overview
