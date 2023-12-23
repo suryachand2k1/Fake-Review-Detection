@@ -1,4 +1,6 @@
 
+# Fake Review Detection Project
+
 1. **app.py**:
    - Description: A Flask web application script.
    - Functionality: Includes importing necessary modules and classes (`Model`, `LoadModels`), setting up Flask app configuration, and initializing models. It also handles web requests and integrates Sentiment Analysis using VaderSentiment.
